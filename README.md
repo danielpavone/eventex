@@ -2,6 +2,9 @@
 
 Sistema de Eventos
 
+[![Code Climate](https://codeclimate.com/github/danielpavone/eventex/badges/gpa.svg)](https://codeclimate.com/github/danielpavone/eventex)
+[![Build Status](https://travis-ci.org/danielpavone/eventex.svg?branch=master)](https://travis-ci.org/danielpavone/eventex)
+
 ## Como desenvolver?
 
 1. Clone o repositório
